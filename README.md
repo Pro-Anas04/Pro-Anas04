@@ -61,5 +61,15 @@ I have a strong interest in **Web Development** and **Business Analysis**, and I
 - 🌐 GitHub: [Pro-Anas04](https://github.com/Pro-Anas04)
 
 ---
+---
 
-> "Learning never exhausts the mind." — Leonardo da Vinci
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Anas04&show_icons=true&theme=radical" alt="Anas's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Anas04&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
