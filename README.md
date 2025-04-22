@@ -43,24 +43,11 @@ I have a strong interest in **Web Development** and **Business Analysis**, and I
 - 📝 Content Creation
 
 ---
-
-## 🎯 Activities & Leadership
-- **Student Club Committee (Faculty of Science and Technology)**  
-  - Designed banners and media
-  - Organized events and collaborated with student activities
-
-- **Student Council (University Level)**  
-  - Participated in policy discussions and formal reporting processes
-  - Developed leadership and professional communication skills
-
----
-
 ## 📫 Let's Connect
 - 📞 Phone: 063-613-1495
 - 📧 Email: anasyusoh47@gmail.com
 - 🌐 GitHub: [Pro-Anas04](https://github.com/Pro-Anas04)
 
----
 ---
 
 ## 📊 GitHub Stats
