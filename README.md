@@ -1,15 +1,65 @@
-<h1 align="center">Hi 👋, I'm Anas Yusoh</h1>
-<h3 align="center">I am studying programming at Songkhla Rajabhat University.</h3>
+# Hi there, I'm Anas Yusoh 👋
 
-- 🌱 I’m currently learning **Nodejs. JavaScript**
+### Web Developer | Tech Enthusiast | Problem Solver
 
-- 📫 How to reach me **anasyusoh47@gmail.com**
+I'm currently pursuing a Bachelor's degree in Computer Science at **Songkhla Rajabhat University**.  
+I have a strong interest in **Web Development** and **Business Analysis**, and I'm eager to gain hands-on experience to prepare for a successful career in the tech industry.
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF4wMcXFR4/WZwDP9eUkCbVT8m1ESaYiw/edit?utm_content=DAF4wMcXFR4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF4wMcXFR4/WZwDP9eUkCbVT8m1ESaYiw/edit?utm_content=DAF4wMcXFR4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
+- 🎓 Bachelor of Computer Science (GPA: 3.04)
+- 📚 Passionate about Web Development, API integration, and UI/UX design
+- 🔥 Constantly learning and expanding my skills through personal projects
+- 🤝 Open to collaboration on exciting projects and innovative ideas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Skills
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
+![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=flat&logo=javascript&logoColor=white)
+
+### Tools & Frameworks
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+![REST APIs](https://img.shields.io/badge/REST_APIs-00A7E1?style=flat)
+
+### Soft Skills
+- 🤝 Leadership
+- 💬 Communication
+- 🔍 Problem-Solving
+- 💡 Critical Thinking
+- 🧠 Teamwork
+
+### Design & Media
+- 🎨 Basic Graphic Design
+- 🖌️ UI/UX Principles
+- 📝 Content Creation
+
+---
+
+## 🎯 Activities & Leadership
+- **Student Club Committee (Faculty of Science and Technology)**  
+  - Designed banners and media
+  - Organized events and collaborated with student activities
+
+- **Student Council (University Level)**  
+  - Participated in policy discussions and formal reporting processes
+  - Developed leadership and professional communication skills
+
+---
+
+## 📫 Let's Connect
+- 📞 Phone: 063-613-1495
+- 📧 Email: anasyusoh47@gmail.com
+- 🌐 GitHub: [Pro-Anas04](https://github.com/Pro-Anas04)
+
+---
+
+> "Learning never exhausts the mind." — Leonardo da Vinci
