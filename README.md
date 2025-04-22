@@ -1,14 +1,6 @@
 # Hi there, I'm Anas Yusoh 👋
 
-### Web Developer | Tech Enthusiast | Problem Solver
-
-I'm currently pursuing a Bachelor's degree in Computer Science at **Songkhla Rajabhat University**.  
-I have a strong interest in **Web Development** and **Business Analysis**, and I'm eager to gain hands-on experience to prepare for a successful career in the tech industry.
-
----
-
 ## 🚀 About Me
-- 🎓 Bachelor of Computer Science (GPA: 3.04)
 - 📚 Passionate about Web Development, API integration, and UI/UX design
 - 🔥 Constantly learning and expanding my skills through personal projects
 - 🤝 Open to collaboration on exciting projects and innovative ideas
@@ -41,12 +33,6 @@ I have a strong interest in **Web Development** and **Business Analysis**, and I
 - 🎨 Basic Graphic Design
 - 🖌️ UI/UX Principles
 - 📝 Content Creation
-
----
-## 📫 Let's Connect
-- 📞 Phone: 063-613-1495
-- 📧 Email: anasyusoh47@gmail.com
-- 🌐 GitHub: [Pro-Anas04](https://github.com/Pro-Anas04)
 
 ---
 
