@@ -1,12 +1,5 @@
 # Hi there, I'm Anas Yusoh 👋
 
-## 🚀 About Me
-- 📚 Passionate about Web Development, API integration, and UI/UX design
-- 🔥 Constantly learning and expanding my skills through personal projects
-- 🤝 Open to collaboration on exciting projects and innovative ideas
-
----
-
 ## 🛠 Skills
 
 ### Programming Languages
